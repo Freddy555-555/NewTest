@@ -5,5 +5,11 @@ public class HomeWork {
 
 
 
+
+
+    }
+
+    public static int summ(int a,int b){
+        return a+b;
     }
 }
